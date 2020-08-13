@@ -10,9 +10,9 @@ int main()
 	scanf("%s", &gender);
 	printf("Enter age : ");
 	scanf("%s", &age);
-	printf("\nEnter first name : %s\n", fname);
-	printf("Enter surname : %s\n", surname);
-	printf("Enter gender : %s\n", gender);
-	printf("Enter age : %s", age);
+	printf("\nFirst Name : %s\n", fname);
+	printf("Surname : %s\n", surname);
+	printf("Gender : %s\n", gender);
+	printf("Age : %s", age);
 	return 0;
 }
